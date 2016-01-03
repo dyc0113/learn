@@ -6,11 +6,38 @@
  ************************************************************************/
 
 #include<iostream>
-using namespace std;
+#include <vector>
+#include <map>
+#include <stdio.h>
 
+using namespace std;
+int fun()
+{
+	cout<<"Hello "<<endl;
+	return 0;
+}
+int fun(int x)
+{
+	cout<<x<<endl;
+	return 3;
+}
+int fun(char *p)
+{
+	return 34;
+}
+class A
+{
+	public:
+		void print()
+		{
+			cout<<"abcdef"<<endl;
+		}
+};
 int main()
 {
-	cout<<"Hello World!"<<endl;
-
+	while(1)
+	{
+		cout<<"Hello "<<endl;
+	}
 	return 0;
 }
