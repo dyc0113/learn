@@ -1,0 +1,78 @@
+C:\Documents and Settings\Administrator\桌面\SyncChatClient\SyncChatClient\bin\Debug\SyncChatClient.exe
+C:\Documents and Settings\Administrator\桌面\SyncChatClient\SyncChatClient\bin\Debug\SyncChatClient.pdb
+C:\Documents and Settings\Administrator\桌面\SyncChatClient\SyncChatClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.Main_Form.resources
+C:\Documents and Settings\Administrator\桌面\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\SyncChatClient\SyncChatClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\SyncChatClient\SyncChatClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.exe
+C:\Documents and Settings\Administrator\桌面\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.pdb
+C:\Users\SunshinePig\Desktop\SyncTcpSocketExample\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.exe
+C:\Users\SunshinePig\Desktop\SyncTcpSocketExample\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.pdb
+C:\Users\SunshinePig\Desktop\SyncTcpSocketExample\SyncChatClient\SyncChatClient\bin\Debug\SyncChatClient.exe
+C:\Users\SunshinePig\Desktop\SyncTcpSocketExample\SyncChatClient\SyncChatClient\bin\Debug\SyncChatClient.pdb
+C:\Users\SunshinePig\Desktop\SyncTcpSocketExample\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.Main_Form.resources
+C:\Users\SunshinePig\Desktop\SyncTcpSocketExample\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.Properties.Resources.resources
+C:\Users\SunshinePig\Desktop\SyncTcpSocketExample\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\SyncTcpSocketExample\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.exe
+C:\Documents and Settings\Administrator\桌面\SyncTcpSocketExample\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.pdb
+C:\Documents and Settings\Administrator\桌面\SyncTcpSocketExample\SyncChatClient\SyncChatClient\bin\Debug\SyncChatClient.exe
+C:\Documents and Settings\Administrator\桌面\SyncTcpSocketExample\SyncChatClient\SyncChatClient\bin\Debug\SyncChatClient.pdb
+C:\Documents and Settings\Administrator\桌面\SyncTcpSocketExample\SyncChatClient\SyncChatClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\SyncTcpSocketExample\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.Main_Form.resources
+C:\Documents and Settings\Administrator\桌面\SyncTcpSocketExample\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\SyncTcpSocketExample\SyncChatClient\SyncChatClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\SyncTcpSocketExample\SyncChatClient\SyncChatClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\SyncTcpSocketExample\SyncChatClient\SyncChatClient\bin\Debug\Newtonsoft.Json.dll
+C:\Documents and Settings\Administrator\桌面\SyncTcpSocketExample\SyncChatClient\SyncChatClient\bin\Debug\Newtonsoft.Json.pdb
+C:\Documents and Settings\Administrator\桌面\SyncTcpSocketExample\SyncChatClient\SyncChatClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SunshinePig\Desktop\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.exe
+C:\Users\SunshinePig\Desktop\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.pdb
+C:\Users\SunshinePig\Desktop\SyncChatClient\SyncChatClient\bin\Debug\SyncChatClient.exe
+C:\Users\SunshinePig\Desktop\SyncChatClient\SyncChatClient\bin\Debug\SyncChatClient.pdb
+C:\Users\SunshinePig\Desktop\SyncChatClient\SyncChatClient\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\SunshinePig\Desktop\SyncChatClient\SyncChatClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SunshinePig\Desktop\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.csprojResolveAssemblyReference.cache
+C:\Users\SunshinePig\Desktop\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.Main_Form.resources
+C:\Users\SunshinePig\Desktop\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.Properties.Resources.resources
+C:\Users\SunshinePig\Desktop\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.csproj.GenerateResource.Cache
+C:\Users\SunshinePig\Desktop\SyncChatServerExmaple\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.exe
+C:\Users\SunshinePig\Desktop\SyncChatServerExmaple\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.pdb
+C:\Users\SunshinePig\Desktop\SyncChatServerExmaple\SyncChatClient\SyncChatClient\bin\Debug\SyncChatClient.exe
+C:\Users\SunshinePig\Desktop\SyncChatServerExmaple\SyncChatClient\SyncChatClient\bin\Debug\SyncChatClient.pdb
+C:\Users\SunshinePig\Desktop\SyncChatServerExmaple\SyncChatClient\SyncChatClient\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\SunshinePig\Desktop\SyncChatServerExmaple\SyncChatClient\SyncChatClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SunshinePig\Desktop\SyncChatServerExmaple\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.csprojResolveAssemblyReference.cache
+C:\Users\SunshinePig\Desktop\SyncChatServerExmaple\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.Main_Form.resources
+C:\Users\SunshinePig\Desktop\SyncChatServerExmaple\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.Properties.Resources.resources
+C:\Users\SunshinePig\Desktop\SyncChatServerExmaple\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.csproj.GenerateResource.Cache
+C:\Users\Thinkpad\Downloads\SyncChatServerExmaple\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.exe
+C:\Users\Thinkpad\Downloads\SyncChatServerExmaple\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.pdb
+C:\Users\Thinkpad\Downloads\SyncChatServerExmaple\SyncChatClient\SyncChatClient\bin\Debug\SyncChatClient.exe
+C:\Users\Thinkpad\Downloads\SyncChatServerExmaple\SyncChatClient\SyncChatClient\bin\Debug\SyncChatClient.pdb
+C:\Users\Thinkpad\Downloads\SyncChatServerExmaple\SyncChatClient\SyncChatClient\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Thinkpad\Downloads\SyncChatServerExmaple\SyncChatClient\SyncChatClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Thinkpad\Downloads\SyncChatServerExmaple\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.csprojResolveAssemblyReference.cache
+C:\Users\Thinkpad\Downloads\SyncChatServerExmaple\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.Main_Form.resources
+C:\Users\Thinkpad\Downloads\SyncChatServerExmaple\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.Properties.Resources.resources
+C:\Users\Thinkpad\Downloads\SyncChatServerExmaple\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.csproj.GenerateResource.Cache
+E:\dashdong_work\手游平台\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.exe
+E:\dashdong_work\手游平台\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.pdb
+E:\dashdong_work\手游平台\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.csprojResolveAssemblyReference.cache
+E:\dashdong_work\手游平台\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.Main_Form.resources
+E:\dashdong_work\手游平台\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.Properties.Resources.resources
+E:\dashdong_work\手游平台\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.csproj.GenerateResource.Cache
+E:\dashdong_work\手游平台\SyncChatClient\SyncChatClient\bin\Debug\SyncChatClient.exe
+E:\dashdong_work\手游平台\SyncChatClient\SyncChatClient\bin\Debug\SyncChatClient.pdb
+E:\dashdong_work\手游平台\SyncChatClient\SyncChatClient\bin\Debug\Newtonsoft.Json.pdb
+E:\dashdong_work\手游平台\SyncChatClient\SyncChatClient\bin\Debug\Newtonsoft.Json.xml
+I:\项目源码\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.exe
+I:\项目源码\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.pdb
+I:\项目源码\SyncChatClient\SyncChatClient\bin\Debug\SyncChatClient.exe
+I:\项目源码\SyncChatClient\SyncChatClient\bin\Debug\SyncChatClient.pdb
+I:\项目源码\SyncChatClient\SyncChatClient\bin\Debug\Newtonsoft.Json.pdb
+I:\项目源码\SyncChatClient\SyncChatClient\bin\Debug\Newtonsoft.Json.xml
+I:\项目源码\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.csprojResolveAssemblyReference.cache
+I:\项目源码\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.Main_Form.resources
+I:\项目源码\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.Properties.Resources.resources
+I:\项目源码\SyncChatClient\SyncChatClient\obj\x86\Debug\SyncChatClient.csproj.GenerateResource.Cache
