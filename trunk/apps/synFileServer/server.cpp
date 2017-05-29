@@ -2,6 +2,11 @@
 #include "utils.h"
 #include "local.h"
 #include "coding.h"
+
+#include <sys/ioctl.h>
+#include <net/if.h>
+#include <stdio.h>
+ #include <stdlib.h>
 using namespace std;
 
 namespace SynServer
@@ -16,15 +21,37 @@ char *g_data = new char[BUF_SIZE];
 
 int GetIp(std::string &strIp)
 {
-    //strIp = "192.168.174.137";
-    //return 0;
-	struct hostent *he;
-	char hostname[20] = {0};
-	gethostname(hostname,sizeof(hostname));
-	he = gethostbyname(hostname);
-	printf("hostname=%s\n",hostname);
-	printf("%s\n",inet_ntoa(*(struct in_addr*)(he->h_addr)));
-	strIp.assign(inet_ntoa(*(struct in_addr*)(he->h_addr)));
+	int sockfd;
+    struct ifconf ifconf;
+    struct ifreq *ifreq;
+    char buf[512];//缓冲区
+    //初始化ifconf
+    ifconf.ifc_len =512;
+    ifconf.ifc_buf = buf;
+    if ((sockfd =socket(AF_INET,SOCK_DGRAM,0))<0)
+    {
+        perror("socket" );
+        exit(1);
+    }
+    ioctl(sockfd, SIOCGIFCONF, &ifconf); //获取所有接口信息
+
+    //接下来一个一个的获取IP地址
+    ifreq = (struct ifreq*)ifconf.ifc_buf;
+    printf("ifconf.ifc_len:%d\n",ifconf.ifc_len);
+    printf("sizeof (struct ifreq):%lu\n",sizeof (struct ifreq));
+
+    for (int i=(ifconf.ifc_len/sizeof (struct ifreq)); i>0; i--)
+    {
+        if(ifreq->ifr_flags == AF_INET){ //for ipv4
+            printf("name =[%s]\n" , ifreq->ifr_name);
+            printf("local addr = [%s]\n" ,inet_ntoa(((struct sockaddr_in*)&(ifreq->ifr_addr))->sin_addr));
+			if (string(ifreq->ifr_name) != "lo")
+			{
+				strIp = inet_ntoa(((struct sockaddr_in*)&(ifreq->ifr_addr))->sin_addr);
+			}
+            ifreq++;
+        }
+    }	
 	return 0;
 }
 
@@ -188,6 +215,7 @@ int main(int argc, char *argv[])
     std::string strIp;
 	GetIp(strIp);
     cout<<"监听的IP:"<<strIp.c_str()<<" port:"<<SERVER_PORT<<endl;
+
     // cout<<sizeof(SCommandReq)<<endl;
     //return 0;
 	// *** Define debug mode
