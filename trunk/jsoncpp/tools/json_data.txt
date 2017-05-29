@@ -1,0 +1,62 @@
+{
+	"ret": 0,
+	"rpt": 0,
+	"msg": "",
+	"data": {
+		"72058715847382223": {
+			"ret": 0,
+			"msg": "",
+			"list": [{
+				"cl": "532259196253475",
+				"img": "http://img3.paipaiimg.com/6a30a6d3/expr-51FF6D1E-000000004052352351FF6D1E00025F32.1.jpg?ck=d540bf3d13c24ee8de944d917723757d",
+				"img_s": "",
+				"price": "139.00",
+				"txt": "秋装新款时尚优雅大码连衣裙",
+				"desc": "",
+				"rl": "http://c.gdt.qq.com/gdt_click.fcg?viewid=x5sbPVeSGSQ2afRB2Spi5Eq4XxVKorKKrulcuUip4v8gEWV8I1syyHLkKzfJgjRqP981aLPqVrUZbQgLc0RtqOcaUbmfQpVpMTkQ!MQluM00zXWmg_jccW6!wzoo3Ti_XVz!yFDcVBnxH!Umwj64MGZZ530tdXTnBM8YxCUBk!L!1qXOw4ZJjMF7EwSpLRS7!PNtgpgmUQxfUSX4dnDrY8_I9n_57EOqBHxDCz0jPEJ0QlgelALKZMyRqVyhDnVdi8zUwi2ZgMU38FgzI1FGoq1nrR6MlAa4IEVCfmv7gkXAMT0sQgFaGJgPeGOvzIkB&jtype=0&outerchn=48665&outerpos=72058715847382223&skey=%40mhkRAtE3z&uin=2191256652",
+				"targetid": "2335524000000000040100002F0FB9DC",
+				"targettype": 17,
+				"apurl": "http://v.gdt.qq.com/gdt_stats.fcg?viewid=x5sbPVeSGSQ2afRB2Spi5Eq4XxVKorKKrulcuUip4v8gEWV8I1syyHLkKzfJgjRqP981aLPqVrUZbQgLc0RtqOcaUbmfQpVpMTkQ!MQluM00zXWmg_jccW6!wzoo3Ti_XVz!yFDcVBnxH!Umwj64MGZZ530tdXTnBM8YxCUBk!L!1qXOw4ZJjMF7EwSpLRS7!PNtgpgmUQxfUSX4dnDrY8_I9n_57EOqBHxDCz0jPEJ0QlgelALKZMyRqVyhDnVdi8zUwi2ZgMU38FgzI1FGoq1nrR6MlAa4IEVCfmv7gkXAMT0sQgFaGJgPeGOvzIkB",
+				"apptrace": "",
+				"appclick": "",
+				"traceid": "0a11554168ff5215b07725300801",
+				"linktype": 0,
+				"closeurl": "http://v.gdt.qq.com/gdt_crpt.fcg?posid=72058715847382223&aid=532259196253475",
+				"ext": {
+					"alist": null,
+					"appclass": 769,
+					"appclass3": 1,
+					"qzoneliked": 0
+				},
+				"cfg": {}
+			}],
+			"cfg": {
+				"playmod": 1,
+				"playcfg": {
+					"pw": 140,
+					"ph": 226,
+					"h": 226,
+					"w": 140,
+					"pt": 2,
+					"th": 226,
+					"tw": 140,
+					"dir": 1,
+					"hnum": 0,
+					"wnum": 1,
+					"noping": 0,
+					"1001": 60,
+					"displayinterval": 60,
+					"pollcommtime": 60,
+					"1003": 2,
+					"displaymode": 2,
+					"poll": "timer",
+					"instancerpt": 0,
+					"timingrpt": 0,
+					"pollcommcyclenum": 1,
+					"cimg2hidetime": 10,
+					"count": 1
+				}
+			}
+		}
+	}
+}
