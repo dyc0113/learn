@@ -42,6 +42,7 @@ namespace SyncChatClient
             // 同步的时候需要排除的目录列表
             _lsExcludeDir.Add(@"trunk\apps\penguin_game\common\jce");
             _lsExcludeDir.Add(@".svn");
+            _lsExcludeDir.Add(@".git");
            
         }
         bool IsSyn(string path)
@@ -217,6 +218,13 @@ namespace SyncChatClient
                 Log("找不到文件:" + ee.ToString());
             }
         }
+        // 获取文件夹目录
+        public string GetDirName(string fullPath, ref string fileName)
+        {
+            int index = fullPath.LastIndexOf("\\");
+            fileName = fullPath.Substring(index + 1, fullPath.Length - index - 1);
+            return fullPath.Substring(0, index);
+        }
 
         public void Renamed(object source, RenamedEventArgs e)
         {
@@ -252,6 +260,12 @@ namespace SyncChatClient
             else
                 Log("返回值异常");
             Log("\r\n");
+            Log("触发一次文件变化时间");
+            string dirPath, fileName = "";
+            dirPath = GetDirName(e.FullPath, ref fileName);
+            FileSystemEventArgs fileChanngeEventArgs =
+                new FileSystemEventArgs(WatcherChangeTypes.Changed, dirPath, fileName);
+            Changed(source, fileChanngeEventArgs);
         }
     }
 }

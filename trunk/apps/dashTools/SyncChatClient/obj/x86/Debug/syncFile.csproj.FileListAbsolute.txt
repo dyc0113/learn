@@ -89,3 +89,15 @@ H:\学习资料\dash_tool_2017-01-18\dash_tools\dashTools\SyncChatClient\obj\x86
 H:\学习资料\dash_tool_2017-01-18\dash_tools\dashTools\SyncChatClient\obj\x86\Debug\syncFile.csproj.GenerateResource.Cache
 E:\dashdong_work\open_source\git_learn\trunk\apps\dashTools\SyncChatClient\obj\x86\Debug\SyncChatClient.exe
 E:\dashdong_work\open_source\git_learn\trunk\apps\dashTools\SyncChatClient\obj\x86\Debug\SyncChatClient.pdb
+E:\dashdong_work\open_source\git_learn\trunk\apps\dashTools\SyncChatClient\bin\Debug\SyncChatClient.exe
+E:\dashdong_work\open_source\git_learn\trunk\apps\dashTools\SyncChatClient\bin\Debug\SyncChatClient.pdb
+E:\dashdong_work\open_source\git_learn\trunk\apps\dashTools\SyncChatClient\bin\Debug\Newtonsoft.Json.pdb
+E:\dashdong_work\open_source\git_learn\trunk\apps\dashTools\SyncChatClient\bin\Debug\Newtonsoft.Json.xml
+E:\dashdong_work\open_source\git_learn\trunk\apps\dashTools\SyncChatClient\obj\x86\Debug\syncFile.csprojResolveAssemblyReference.cache
+E:\dashdong_work\open_source\git_learn\trunk\apps\dashTools\SyncChatClient\obj\x86\Debug\SyncChatClient.FCommTools.resources
+E:\dashdong_work\open_source\git_learn\trunk\apps\dashTools\SyncChatClient\obj\x86\Debug\SyncChatClient.FManaDirectory.resources
+E:\dashdong_work\open_source\git_learn\trunk\apps\dashTools\SyncChatClient\obj\x86\Debug\SyncChatClient.FManaWinRoots.resources
+E:\dashdong_work\open_source\git_learn\trunk\apps\dashTools\SyncChatClient\obj\x86\Debug\SyncChatClient.Main.resources
+E:\dashdong_work\open_source\git_learn\trunk\apps\dashTools\SyncChatClient\obj\x86\Debug\SyncChatClient.Main_Form.resources
+E:\dashdong_work\open_source\git_learn\trunk\apps\dashTools\SyncChatClient\obj\x86\Debug\SyncChatClient.Properties.Resources.resources
+E:\dashdong_work\open_source\git_learn\trunk\apps\dashTools\SyncChatClient\obj\x86\Debug\syncFile.csproj.GenerateResource.Cache
