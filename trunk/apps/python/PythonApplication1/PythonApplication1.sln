@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication1", "PythonApplication1\PythonApplication1.pyproj", "{AA68AC49-3BA7-49A4-9970-30C174EB961F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonServer", "..\PythonServer\PythonServer\PythonServer.pyproj", "{553ED775-BC78-428F-88ED-008F19D597F6}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonClient", "..\PythonClient\PythonClient\PythonClient.pyproj", "{57CFE91F-CE80-4B80-97E0-B2AB1767DDD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA68AC49-3BA7-49A4-9970-30C174EB961F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA68AC49-3BA7-49A4-9970-30C174EB961F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553ED775-BC78-428F-88ED-008F19D597F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553ED775-BC78-428F-88ED-008F19D597F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57CFE91F-CE80-4B80-97E0-B2AB1767DDD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57CFE91F-CE80-4B80-97E0-B2AB1767DDD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
